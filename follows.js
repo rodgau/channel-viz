@@ -12,9 +12,9 @@
 		hideForm		= 1;
 	*/
 
-	var defaultKey		= 'XphptuJGtyKWcW4GS0c1mZQI1LZ0OSWL92DC9Q47vvcOIr6H', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [98642123], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'my test App', // Replaces Xively logo in the header
+	var defaultKey		= 'bUtxte0WvwSllluGLDO1FO4q06NilXXinGKfe6KctgQXQABM', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [293059339], // Comma separated array of Xively Feed ID numbers
+		applicationName	= '1-Wire Sensors', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
