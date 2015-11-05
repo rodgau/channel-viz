@@ -7,7 +7,7 @@ It was created with open-source tools, and reads data from Xively with the Xivel
 Read the [tutorial](http://xively.com/dev/tutorials/channel-viz/) on how to make and customise your own.
 
 ## Documentation
-To use this page, enter a Master API Key from your Xively account, and a list of the Feeds that you would like to display, into the forms above. You can view multiple Feeds by separating them with a comma, and select individual channels with an exclamation mark.
+To use this page, enter a Master API Key from your Xively account, and a list of the Feeds that you would like to display, into the forms above. You can view multiple Feeds by separating them with a comma, and select individual channels with an exclamation mark. View the page at http://rodgau.github.io/channel-viz
 
 ## Feed Examples
 Single Feed: 61916  
